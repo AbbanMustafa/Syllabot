@@ -7,7 +7,7 @@
 
 ## Usage
 
-The UTAustin subreddit is a great medium for students to communicate information and experiences regarding professors and coursework. Often times there tend to be many questions that could be simply answered by pulling up a particular course's syllabus. However, most students are usually not aware of the school's Syllabus directory or prefer not to look for it because it can become pretty cumbersome.
+The UTAustin subreddit is a great medium for students to communicate information and experiences regarding professors and coursework. Often times, there tends to be many questions that could be simply answered by pulling up a particular course's syllabus. However, most students are usually not aware of the school's Syllabus directory or prefer not to look for it because it can become pretty cumbersome.
 
 [u/Syllabot](https://www.reddit.com/user/syllabot/) helps students by replying with relevant information regarding a course whenever a course is mentioned within the subreddit.
 
