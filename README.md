@@ -4,4 +4,4 @@
 
 A script that utilizes the Python Reddit API Wrapper to help students in r/UTAustin
 
-[u/syllabot](https://www.reddit.com/user/syllabot/) 
+[u/syllabot](https://www.reddit.com/user/syllabot/) replies with relevant information of a course whenever a course is mentioned within the subreddit.
