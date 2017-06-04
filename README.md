@@ -1,4 +1,6 @@
-# Syllabot ![](http://www.jellyneo.net/images/newsup/reddit_snoo.png height=60)
+# Syllabot
+<img src="https://secure.gravatar.com/avatar/c638493729c2f009988c9e5bd9b5e116?s=200" align="right">
+
 
 A script that utilizes the Python Reddit API Wrapper to help students in r/UTAustin
 
